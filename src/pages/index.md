@@ -4,6 +4,7 @@ title: Lorem Ipsum Dolor Sit Amet Dolor
 image: /img/home-jumbotron.jpg
 heading: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed'
 subheading: 'Lorem ipsum dolor sit amet, consectetur adipisicing '
+subheadingTwo: Some sub heading
 mainpitch:
   title: Some text
   description: >
