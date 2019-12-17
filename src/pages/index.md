@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Lorem Ipsum Dolor Sit Amet Dolor
-image: /img/home-jumbotron.jpg
+image: /img/wmc-live-1.jpg
 heading: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed'
 subheading: 'Lorem ipsum dolor sit amet, consectetur adipisicing '
 mainpitch:
