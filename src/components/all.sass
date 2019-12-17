@@ -2,11 +2,12 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
-$kaldi-red-invert: #fff
+$wmc-green: #C5E900
+$wmc-green-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$primary: $wmc-green
+$primary-invert: $wmc-green-invert
+$body-background-color: #e2e2e2
 $body-color: #333
 $black: #2b2523
 
@@ -57,19 +58,23 @@ $black: #2b2523
     font-size: 18px
     font-size: 1rem
     line-height: 1.25
-    background-color: #fff
+    background-color: $wmc-green
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: #000
     text-align: center
     -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    box-shadow: inset 0 0 0 2px $wmc-green
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
 .margin-top-0
   margin-top: 0 !important
+
+
+$navbar-background-color: black
+$navbar-item-color: $wmc-green
 
 .navbar-item .icon
   color: $primary
@@ -88,9 +93,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $wmc-green-invert
+$menu-item-active-background-color:	$wmc-green-invert
+$menu-list-border-left: 1px solid $wmc-green-invert
 $menu-label-color: $white-ter
 
 
@@ -104,7 +109,7 @@ $menu-label-color: $white-ter
   padding: 2em
 .social a
     padding: .5em .5em .3em .5em
-    border-radius: 1em
+    border-radius: 50%
     background-color: $white-ter
     margin: .5em
     width: 1em
