@@ -4,7 +4,6 @@ title: Lorem Ipsum Dolor Sit Amet Dolor
 image: /img/home-jumbotron.jpg
 heading: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed'
 subheading: 'Lorem ipsum dolor sit amet, consectetur adipisicing '
-subheadingTwo: Some sub heading
 mainpitch:
   title: Some text
   description: >
@@ -19,13 +18,14 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/wmc-live-1.jpg
+      text: >-
+        Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam
+        id dolor id nibh ultricies vehicula ut id elit. Lorem ipsum dolor sit
+        amet, consectetur adipiscing elit. Aenean lacinia bibendum nulla sed
+        consectetur. Fusce dapibus, tellus ac cursus commodo, tortor mauris
+        condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed
+        odio dui. Cras mattis consectetur purus sit amet fermentum.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
